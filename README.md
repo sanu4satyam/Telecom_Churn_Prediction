@@ -6,17 +6,26 @@ Churn prediction is analytical studies on the possibility of a customer abandoni
 
 
 
-### Some solution to Reduce Customer Churn
+### After doing data analysis, visualization and machine learning. The follwing are some suggestions.
 
-Improve Tech Support.
-Be proactive with communication.
-Provide better streaming speed or give offers on streaming services.
-Periodically throw Offers to retain customers.
-Modify Monthly plans.
-Improve fiber services.
-Modify payment methods. Maybe customers facing issues with electronic-check
-Increase Dependents and Partners.
-Analyze churn when it happens.
-Stay competitive.
+- Improve Tech Support.
+
+- Be proactive with communication.
+
+- Provide better streaming speed or give offers on streaming services.
+
+- Periodically throw Offers to retain customers.
+
+- Modify Monthly plans.
+
+- Improve fiber services.
+
+- Modify payment methods. Maybe customers facing issues with electronic-check
+
+- Increase Dependents and Partners.
+
+- Analyze churn when it happens.
+
+- Stay competitive.
 
 ## The best model to deploy is: XGBClassifier with hypertuning.
